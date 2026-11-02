@@ -1,2 +1,2 @@
 def dashboard():
-    print("Welcome to Team Dashboard")
+    print("Dashboard module developed by Team Member 2")
